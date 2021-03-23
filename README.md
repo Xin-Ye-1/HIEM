@@ -1,6 +1,8 @@
 
 # Efficient Robotic Object Search via HIEM: Hierarchical Policy Learning with Intrinsic-Extrinsic Modeling
 
+![image](https://github.com/Xin-Ye-1/HIEM/blob/main/overview.png)
+
 This is the source code for our HIEM framework and the baseline methods we mentioned in the paper. 
 
 [paper](https://arxiv.org/pdf/2010.08596.pdf) | [video](https://www.youtube.com/watch?v=rAHB3jIS3Wo)
